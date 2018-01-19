@@ -14,21 +14,22 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="MyCoin"
-COIN_UNIT="MYC"
+COIN_NAME="Mcoin"
+COIN_UNIT="MC"
 # 42 million lite coins at total
 TOTAL_SUPPLY=42000000
-MAINNET_PORT="54321"
-TESTNET_PORT="54322"
-PHRASE="Some newspaper headline that describes something that happened today"
+MAINNET_PORT="4321"
+TESTNET_PORT="4322"
+PHRASE="Remember January 19th, 2018"
 # First letter of the wallet address. Check https://en.bitcoin.it/wiki/Base58Check_encoding
 PUBKEY_CHAR="20"
 # leave CHAIN empty for main network, -regtest for regression network and -testnet for test network
-CHAIN="-regtest"
+#CHAIN="-regtest"
+
 
 # dont change the following variables unless you know what you are doing
-GENESISHZERO_REPOS=https://github.com/lhartikk/GenesisH0
-LITECOIN_REPOS=https://github.com/litecoin-project/litecoin.git
+GENESISHZERO_REPOS=https://github.com/zyp001a/GenesisH0
+LITECOIN_REPOS=https://github.com/zyp001a/litecoin.git
 LITECOIN_PUB_KEY=040184710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9
 LITECOIN_MERKLE_HASH=97ddfbbae6be97fd6cdf3e7ca13232a3afff2353e29badfab7f73011edd4ced9
 LITECOIN_MAIN_GENESIS_HASH=12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2

@@ -1,0 +1,11 @@
+04ffff001d01041b52656d656d626572204a616e7561727920313974682c2032303138
+algorithm: scrypt
+merkle hash: e2bd92c5451db247a616880136b52dd6fc5a12d7aa889a3c8382382c5e0d8851
+pszTimestamp: Remember January 19th, 2018
+pubkey: 04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f
+time: 1516346987
+bits: 0x1e0ffff0
+Searching for genesis hash..
+2516.0 hash/s, estimate: 474.2 h2514.0 hash/s, estimate: 474.6 hgenesis hash found!
+nonce: 2311943
+genesis hash: 50a9cc72e22199f70e96b699f3166553ea3317278c0bc7c69c16389978fc1b2c
